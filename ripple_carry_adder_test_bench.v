@@ -1,12 +1,3 @@
-/*
-# Team ID:          1926
-# Theme:            EcoMender Bot
-# Author List:      Krishna Gupta, Nandan M N
-# Filename:         ripple_carry_adder
-# File Description: Verilog code for Test bench of ripple carry adder
-# Global variables: None
-*/
-
 // Define module
 module tb_ripple_carry_adder;
 reg [1:0] a; // Define all I/O ports
