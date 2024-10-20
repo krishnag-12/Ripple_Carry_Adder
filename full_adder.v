@@ -1,12 +1,3 @@
-/*
-# Team ID:          1926
-# Theme:            EcoMender Bot
-# Author List:      Krishna Gupta, Nandan M N
-# Filename:         ripple_carry_adder
-# File Description: Verilog code for Full Adder
-# Global variables: None
-*/
-
 // Define Full Adder module
 module full_adder (
     input a, b, c_in, // Define input ports a, b and c_in
