@@ -1,12 +1,3 @@
-/*
-# Team ID:          1926
-# Theme:            EcoMender Bot
-# Author List:      Krishna Gupta, Nandan M N
-# Filename:         ripple_carry_adder
-# File Description: Verilog code for 2 bit ripple carry adder
-# Global variables: None
-*/
-
 // Define module
 module ripple_carry_adder (
     input [1:0] a, b,
