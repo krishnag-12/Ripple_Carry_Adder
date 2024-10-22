@@ -1,4 +1,4 @@
-# Ripple_Carry_Adder
+# 2-bit Ripple_Carry_Adder
 # Purpose:
 
 Implements a 2-bit ripple-carry adder, which performs addition on two 2-bit binary numbers.
